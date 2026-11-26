@@ -1,4 +1,4 @@
-# 🌾 Seasonal Agriculture Performance Analysis
+#  Seasonal Agriculture Performance Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
@@ -10,13 +10,13 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Seasonal Agriculture Performance Analysis** project studies agricultural performance across three major agricultural seasons:
 
-- 🌧️ Kharif
-- ❄️ Rabi
-- ☀️ Zaid
+-  Kharif
+-  Rabi
+-  Zaid
 
 The project uses a dataset containing **4,000 farm records and 28 variables** covering environmental conditions, soil characteristics, resource usage, yield, production, economic performance, water efficiency, and disease/pest risk.
 
@@ -24,7 +24,7 @@ The analysis is performed using Python, exploratory data analysis, data visualiz
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Explore and clean the agricultural dataset.
 - Compare environmental conditions across seasons.
@@ -40,7 +40,7 @@ The analysis is performed using Python, exploratory data analysis, data visualiz
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains:
 
@@ -64,7 +64,7 @@ The dataset contains:
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The project checks:
 
@@ -81,7 +81,7 @@ Negative profit values are retained because they can represent genuine farm loss
 
 ---
 
-## 🌦️ Environmental Analysis
+##  Environmental Analysis
 
 The project compares:
 
@@ -96,7 +96,7 @@ across Kharif, Rabi, and Zaid.
 
 ---
 
-## 💧 Resource Usage Analysis
+##  Resource Usage Analysis
 
 The project analyzes:
 
@@ -108,7 +108,7 @@ The project analyzes:
 
 ---
 
-## 🌾 Yield & Production Analysis
+##  Yield & Production Analysis
 
 The project compares:
 
@@ -119,7 +119,7 @@ The project compares:
 
 ---
 
-## 💰 Economic Analysis
+##  Economic Analysis
 
 The analysis evaluates:
 
@@ -131,7 +131,7 @@ The analysis evaluates:
 
 ---
 
-## 📈 Correlation Analysis
+##  Correlation Analysis
 
 Correlation analysis is used to study relationships between important numerical variables such as environmental conditions, resource usage, yield, water efficiency, and profit.
 
@@ -139,7 +139,7 @@ Correlation is interpreted as association and not necessarily causation.
 
 ---
 
-## 📊 Statistical Analysis
+##  Statistical Analysis
 
 The project uses statistical testing to evaluate seasonal differences.
 
@@ -154,7 +154,7 @@ The significance level used is:
 
 ---
 
-## 🗺️ State-wise Analysis
+##  State-wise Analysis
 
 Seasonal agricultural performance is also analyzed across states using **State × Season** comparisons.
 
@@ -162,13 +162,13 @@ This helps identify regional differences in agricultural performance.
 
 ---
 
-## 🐛 Disease & Pest Risk
+##  Disease & Pest Risk
 
 The project compares disease and pest risk across the three agricultural seasons.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 The analysis provides recommendations related to:
 
@@ -181,7 +181,7 @@ The analysis provides recommendations related to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -198,7 +198,7 @@ The analysis provides recommendations related to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Seasonal-Agriculture-Performance-Analysis/
